@@ -22,6 +22,8 @@ Make sure both model files are placed inside the `model` folder before running t
 
 The graphical user interface is designed using **Qt Designer** and is stored in the `form.ui` file.
 
+![Application Interface](Interface/interface.png)
+
 If you modify the user interface using Qt Designer, you must regenerate the Python UI file before running the project.
 
 After making changes to `form.ui`, run the following command from the project directory:
